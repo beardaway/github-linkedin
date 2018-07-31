@@ -23,7 +23,8 @@ Hi! I'm Konrad and I'm a developer advocate currently available for hire. I love
 - 🐙 GitHub  [beardaway](https://github.com/beardaway)
 - 📝 Medium  [@konradsopala](https://medium.com/@konradsopala)
 - 👨🏽‍🎓 Linkedin  [Konrad Sopala](https://www.linkedin.com/in/konrad-sopala-b4aa00101/)
-- 💻 Devpost  [beardaway]()
+- 📋 Resume  [Resume](KonradSopalaResume.pdf)
+- 📃 CV [CV](KonradSopalaCV.pdf)
 
 
 # Hackathons and Confs 👨‍💻
