@@ -1,12 +1,12 @@
 ![](/Assets/coverPhoto.png)
 
 <p align="center">
-<b> Konrad Sopala </b><br>
+<b> Konrad Sopala </b> <br>
 🤓 Advocating for developers' needs <br>
-🧙🏻‍♂️ [Devrel Space Co-Founder](https://github.com/DevrelSpace) <br>
-🥑 [Auth0 Community  Engineer](https://auth0.com/) <br>
-🚩 [Github Campus Expert](https://education.github.com/students/experts) <br>
-👨‍🚀 [AngelHack Regional Community Manager](https://angelhack.com/) <br>
+💻 Devrel Space Co-Founder <br>
+🥑 Auth0 Community  Engineer <br>
+🚩 Github Campus Expert <br>
+👨‍🚀 AngelHack Regional Community Manager <br>
 👨‍💻 Swift, Python, Objective-C, JavaScript <br>
 🔧 Hackathons, Developer Experience, Developer Relations, Developer Advocacy <br>
 </p>
