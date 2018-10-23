@@ -4,7 +4,7 @@
 <b> Konrad Sopala </b> <br>
 🤓 Advocating for developers' needs <br>
 💻 Devrel Space Co-Founder <br>
-🥑 Auth0 Community  Engineer <br>
+🥑 Auth0 Developer Community  Engineer <br>
 🚩 GitHub Campus Expert <br>
 👨‍🚀 AngelHack Regional Community Manager <br>
 👨‍💻 Swift, Python, Objective-C, JavaScript <br>
