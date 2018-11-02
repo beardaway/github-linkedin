@@ -45,3 +45,4 @@ List of hackathons I attended, organized or volunteered in and conferences I gav
 - [Hackathon Insights II](https://medium.com/@konradsopala/hackathon-insights-ii-9edec4cb0f58) 🇺🇸<br>
 - [AGHacks Facts and Tales](https://medium.com/@konradsopala/aghacks-facts-and-tales-bb93291f6f12) 🇺🇸<br>
 - [Why is it important to organise local hack days for your community?](https://medium.com/@konradsopala/why-is-it-important-to-organize-local-hack-days-for-your-community-c583968d5cc4) 🇺🇸<br>
+- [Hackcon London 2018](https://medium.com/@konradsopala/hackcon-london-2018-e8c9bc47e02e) 🇺🇸<br>
