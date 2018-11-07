@@ -39,6 +39,12 @@ List of hackathons I attended, organized or volunteered in and conferences I gav
 | SFI (IT Student Festival)        2017| Speaker   | **Presented a case-study of organizing the biggest student hackathon in Poland - AGHacks**. Covered topics such as: how to get funds for such hackathons, how to convince sponsors if you are a noname in hackathon field, what about logistics and anything that you should care about. Talk attended by around 100 people                                                                                                                                                                                                                    | https://www.youtube.com/watch?v=NFUL-Z36U04|
 | AngelHack Global Hackathon Series 2018| Organizer | 60 people hackathon aiming at blockchain and social solutions held at Hubraum Incubator in Cracow. Part of the AngelHack Global Series                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | https://angelhack.com/global-hackathon-series/ |
 
+
+# Presentations 🎤
+
+- [Running effective IT society at your university](https://github.com/beardaway/Workshops-Keynotes/blob/master/Github%20Campus%20Experts/Presentation.pdf) 🇺🇸<br>
+- [Running 500 people hackathon - AGHacks case study](https://github.com/beardaway/Workshops-Keynotes/blob/master/SFI/Running500peoplehackathon.pdf) 🇺🇸<br>
+
 # Writing ✏️
 
 - [Hackathon Insights I](https://medium.com/@konradsopala/hackathon-insights-bb728febb27f) 🇺🇸<br>
