@@ -42,8 +42,12 @@ List of hackathons I attended, organized or volunteered in and conferences I gav
 
 # Presentations 🎤
 
-- [Running effective IT society at your university](https://github.com/beardaway/Workshops-Keynotes/blob/master/Github%20Campus%20Experts/Presentation.pdf) 🇺🇸<br>
 - [Running 500 people hackathon - AGHacks case study](https://github.com/beardaway/Workshops-Keynotes/blob/master/SFI/Running500peoplehackathon.pdf) 🇺🇸<br>
+
+# LightningTalks 💡
+
+- [Running effective IT society at your university](https://github.com/beardaway/Workshops-Keynotes/blob/master/Github%20Campus%20Experts/Presentation.pdf) 🇺🇸<br>
+- [Running big hackathons essentials](https://github.com/beardaway/Workshops-Keynotes/blob/master/RunningBigHackathons/RunningBigHackathons.pdf) 🇺🇸<br>
 
 # Writing ✏️
 
