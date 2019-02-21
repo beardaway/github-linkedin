@@ -7,13 +7,13 @@
 🥑 Auth0 Developer Community  Engineer <br>
 🚩 GitHub Campus Expert <br>
 👨‍🚀 AngelHack Regional Community Manager <br>
-👨‍💻 Swift, Python, Objective-C, JavaScript <br>
+👨‍💻 Swift, Python <br>
 🔧 Hackathons, Developer Experience, Developer Relations, Developer Advocacy <br>
 </p>
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm a developer advocate currently working as a community engineer at Auth0. I love writing software in Swift and JavaScript but also doing data stuff in Python. What I enjoy even more is making use of my software engineering and community management skills to make developers' world more effective and enjoyable. Always willing to do some hard work and talk about developer experience/relations/advocacy.
+Hi! I'm Konrad and I'm a developer advocate currently working as a developer community engineer at Auth0. I love writing software in Swift and Python but also doing data stuff in the latter one. What I enjoy even more is making use of my software engineering and community management skills to make developers' world more effective and enjoyable. Always willing to do some hard work and talk about developer experience/relations/advocacy.
 
 # Social Media Channels 🤜🤛
 
