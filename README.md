@@ -5,7 +5,7 @@
 🤓 Advocating for developers' needs <br>
 💻 Devrel Space Co-Founder <br>
 🥑 Auth0 Developer Community  Engineer <br>
-🚩 GitHub Campus Expert <br>
+🚩 GitHub Campus Expert Alumni <br>
 👨‍🚀 Used to be AngelHack Regional Community Manager <br>
 👨‍💻 Swift, Python <br>
 🔧 Hackathons, Developer Experience, Developer Relations, Developer Advocacy <br>
