@@ -49,3 +49,16 @@ List of hackathons I attended, organized or volunteered in and conferences I gav
 - [Running big hackathons essentials](https://github.com/beardaway/Workshops-Keynotes/blob/master/RunningBigHackathons/RunningBigHackathons.pdf) 🇺🇸<br>
 
 # Writing ✏️
+
+# Online Courses (finished and highly recommended) 📚
+
+* [Blockchain and Bitcoin Fundamentals](https://www.udemy.com/blockchain-and-bitcoin-fundamentals/) <br>
+* [Mobile App Design In Sketch 3](https://www.udemy.com/course/the-complete-design-course/) <br>
+* [User Experience Design Fundamentals](https://www.udemy.com/course/user-experience-design-fundamentals/) <br>
+* [Mastering Agile Scrum Project Management](https://www.udemy.com/mastering-agile-scrum-project-management-pmi-rep/) <br>
+* [The Complete Python & PostgreSQL Developer Course](https://www.udemy.com/the-complete-python-postgresql-developer-course/) <br>
+* [The Complete iOS 10 & Swift 3 Developer Course](https://www.udemy.com/course/complete-ios-10-developer-course/) <br>
+* [iOS Swift Course. From Zero to Advance. Build 60+ Apps](https://www.udemy.com/course/learn-full-swift-course-xcode-ios-programming/) <br>
+* [Objective-C Crash Course for Swift Developers](https://www.udemy.com/course/objectivec/) <br>
+* [Learn JIRA with real-world examples](https://www.udemy.com/the-complete-guide-to-jira-with-real-world-examples/) <br>
+* [The Complete Salesforce Classic Administrator Certification](https://www.udemy.com/salesforce-administrator/) <br>
