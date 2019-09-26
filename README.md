@@ -52,6 +52,7 @@ List of hackathons I attended, organized or volunteered in and conferences I gav
 
 # Online Courses (finished and highly recommended) 📚
 
+* [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/docker-and-kubernetes-the-complete-guide/) <br>
 * [Blockchain and Bitcoin Fundamentals](https://www.udemy.com/blockchain-and-bitcoin-fundamentals/) <br>
 * [Mobile App Design In Sketch 3](https://www.udemy.com/course/the-complete-design-course/) <br>
 * [User Experience Design Fundamentals](https://www.udemy.com/course/user-experience-design-fundamentals/) <br>
