@@ -65,7 +65,7 @@ List of hackathons I attended, organized or volunteered in and conferences I gav
 
 
 <p align="center">
-<b> Let's meet at some conference, meetup or chat online! </b> <br>
+<b> Let's meet at some hackathon, conference, meetup or chat online! </b> <br>
 </p>
 
 ![](/Assets/coverPhotoTwo.png)
