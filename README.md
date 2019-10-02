@@ -42,6 +42,7 @@ List of hackathons I attended, organized or volunteered in and conferences I gav
 # Presentations 🎤
 
 - [Running 500 people hackathon - AGHacks case study](https://github.com/beardaway/Bio/blob/master/Presentations/Running500peoplehackathon.pdf) 🇺🇸<br>
+- [Random Thoughts For Developer Product Managers]() 🇺🇸<br>
 
 # Lightning Talks 💡
 
