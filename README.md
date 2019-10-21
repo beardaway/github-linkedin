@@ -2,7 +2,6 @@
 
 <p align="center">
 <b> Konrad Sopala </b> <br>
-🤓 Developer Communities Guy <br>
 💻 Devrel Space Co-Founder <br>
 🥑 Auth0 Developer Community  Engineer <br>
 🚩 GitHub Campus Expert Alumni <br>
@@ -50,7 +49,7 @@ List of hackathons I attended, organized or volunteered in and conferences I gav
 * [Running effective IT society at your university](https://github.com/beardaway/Bio/blob/master/Presentations/GitHubCampusExpertsPresentation.pdf) 🇺🇸<br>
 * [Running big hackathons essentials](https://github.com/beardaway/Bio/blob/master/Presentations/RunningBigHackathons.pdf) 🇺🇸<br>
 
-# Online Courses (finished and highly recommended) 📚
+# Online Courses Taken 📚
 
 * [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/docker-and-kubernetes-the-complete-guide/) <br>
 * [Blockchain and Bitcoin Fundamentals](https://www.udemy.com/blockchain-and-bitcoin-fundamentals/) <br>
@@ -64,7 +63,7 @@ List of hackathons I attended, organized or volunteered in and conferences I gav
 * [Learn JIRA with real-world examples](https://www.udemy.com/the-complete-guide-to-jira-with-real-world-examples/) <br>
 * [The Complete Salesforce Classic Administrator Certification](https://www.udemy.com/salesforce-administrator/) <br>
 * [Writing READMEs](https://www.udacity.com/course/writing-readmes--ud777) <br>
-
+* [How to write a successful research paper](https://www.udemy.com/course/how-to-write-a-successful-research-paper-academic-writing/) <br>
 
 <p align="center">
 <b> Let's meet at some hackathon, conference, meetup or chat online! </b> <br>
