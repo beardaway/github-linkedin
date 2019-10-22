@@ -3,8 +3,7 @@
 <p align="center">
 <b> Konrad Sopala </b> <br>
 🥑 Auth0 Developer Community  Engineer <br>
-👨‍💻 Swift, Python <br>
-🔧 Developer Communities, Hackathons, Developer Experience, Developer Relations, Developer Advocacy <br>
+🔧 Developer Communities, Hackathons, Data Science, Machine Learning <br>
 </p>
 
 # Bio 👋
