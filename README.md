@@ -12,15 +12,23 @@ Hi! I'm Konrad and I'm a developer advocate currently working as a developer com
 
 # Social Media Channels 🤜🤛
 
-- 🐤 Twitter  [@beardaway](https://twitter.com/beardaway?lang=pl)
-- 🤦 Facebook  [Konrad Sopala](https://www.facebook.com/beardaway)
-- 📧 Email  konrad.sopala@gmail.com
-- 🐙 GitHub  [beardaway](https://github.com/beardaway)
-- 👨🏽‍🎓 Linkedin  [Konrad Sopala](https://www.linkedin.com/in/konrad-sopala-b4aa00101/)
+* 🐤 Twitter  [@beardaway](https://twitter.com/beardaway?lang=pl)
+* 🤦 Facebook  [Konrad Sopala](https://www.facebook.com/beardaway)
+* 📧 Email  konrad.sopala@gmail.com
+* 🐙 GitHub  [beardaway](https://github.com/beardaway)
+* 👨🏽‍🎓 Linkedin  [Konrad Sopala](https://www.linkedin.com/in/konrad-sopala-b4aa00101/)
 
 # Jobs History 🧓
 
 # Voluntary 🙋‍♂️
+
+* [DevrelSpace Co-Founder](https://github.com/DevrelSpace) (August 2018 - currently) <br>
+* [GitHub Campus Expert)(https://education.github.com/students/experts) (June 2018 - June 2019) <br>
+* [AngelHack Regional Community Manager](https://angelhack.com/ambassadors/) (January 2018 - February 2019) <br>
+* [AGHacks Core Organizer](https://pl-pl.facebook.com/AGHacks) (November 2014 - January 2018) <br>
+* [MLH Local Hack Day Organizer](https://localhackday.mlh.io/) (December 2017) <br>
+* [TEDx Badge Team Coordinator](https://www.ted.com/) (June 2015) <br>
+* [TEDx Volunteer](https://www.ted.com/) (April 2015 - May 2015) <br>
 
 # Skills 🙅‍♂️
 
