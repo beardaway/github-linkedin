@@ -20,9 +20,14 @@ Hi! I'm Konrad and I'm a developer advocate currently working as a developer com
 
 # Jobs History 🧓
 
+* [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - now) <br>
+* [Estimote: iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
+* [Woolet: Sales Data Analyst](https://woolet.co/) (November 2015 - May 2017) <br>
+* [Sher.ly: Customer Data Analyst](https://www.crunchbase.com/organization/sher-ly) (August 2015 - October 2015) <br>
+
 # Voluntary 🙋‍♂️
 
-* [DevrelSpace Co-Founder](https://github.com/DevrelSpace) (August 2018 - currently) <br>
+* [DevrelSpace Co-Founder](https://github.com/DevrelSpace) (August 2018 - now) <br>
 * [GitHub Campus Expert](https://education.github.com/students/experts) (June 2018 - June 2019) <br>
 * [AngelHack Regional Community Manager](https://angelhack.com/ambassadors/) (January 2018 - February 2019) <br>
 * [AGHacks Core Organizer](https://pl-pl.facebook.com/AGHacks) (November 2014 - January 2018) <br>
