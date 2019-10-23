@@ -49,7 +49,7 @@ Hi! I'm Konrad and I'm a developer advocate currently working as a developer com
 
 |              Field              | Skills                                                                                                                  |
 |:-------------------------------:|-------------------------------------------------------------------------------------------------------------------------|
-| Programming                     | Python, Swift, SQL, PostgreSQL, Docker                                                                                  |
+| Programming                     | Python, Swift, SQL, PostgreSQL, Docker, Git                                                                                  |
 | Data Science & Machine Learning | Numpy, Pandas, Scikit-Learn, Matplotlib, Google BigQuery                                                                |
 | Business Inteligence            | Microsoft PowerBI, Tableau, Microsoft Excel                                                                             |
 | Developer Relations             | Developer Ecosystem Analysis, Organising hackathons, Developer Advocacy, Community Management                           |
