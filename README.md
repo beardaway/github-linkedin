@@ -83,6 +83,7 @@ List of hackathons I attended, organized or volunteered in and conferences I gav
 
 # Courses certificates 👨‍🏫
 
+* [Managing Data Analysis](https://www.coursera.org/learn/managing-data-analysis?) <br>
 * [Docker and Kubernetes: The Complete Guide](https://www.udemy.com/docker-and-kubernetes-the-complete-guide/) <br>
 * [Blockchain and Bitcoin Fundamentals](https://www.udemy.com/blockchain-and-bitcoin-fundamentals/) <br>
 * [Mobile App Design In Sketch 3](https://www.udemy.com/course/the-complete-design-course/) <br>
