@@ -60,7 +60,7 @@ Hi! I'm Konrad and I'm a developer advocate currently working as a developer com
 | Business & Startups  | BMC, VPC, Business Models, Financing, Fundraising                                      |
 |      Soft Skills     | Leadership, Public Speaking                                                            |
 
-# Hackathons and Confs 👨‍💻
+# Hackathons and Conferences 👨‍💻
 
 List of hackathons I attended, organized or volunteered in and conferences I gave presentations at.
 
