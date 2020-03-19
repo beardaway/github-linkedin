@@ -74,7 +74,6 @@ Here's a list of courses I've taken. All the certificates can be viewed [here](h
     * [The Complete Python & PostgreSQL Developer Course](udemy.com/course/the-complete-python-postgresql-developer-course/)
     * [The Complete iOS 10 & Swift 3 Developer Course](udemy.com/course/complete-ios-10-developer-course/)
     * [Objective-C Crash Course for Swift Developers](udemy.com/course/objectivec/)
-    * [Docker and Kubernetes: The Complete Guide](udemy.com/course/docker-and-kubernetes-the-complete-guide/)
     * [Blockchain and Bitcoin Fundamentals](udemy.com/course/blockchain-and-bitcoin-fundamentals/)
     * [The Complete Salesforce Administrator Certification](udemy.com/course/salesforce-administrator/)
     * [The Complete Guide to Jira](udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/)
