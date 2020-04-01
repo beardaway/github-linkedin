@@ -91,6 +91,7 @@ Here's a list of courses I've taken. All the certificates can be viewed [here](h
 
 # Lightning Talks 💡
 
+* [Developer Community Dilemma](https://github.com/beardaway/github-linkedin/blob/master/Presentations/DeveloperCommunityDilemma.pdf) 🇺🇸<br>
 * [Engaging with developer communities](https://github.com/beardaway/Bio/blob/master/Presentations/EngagingWithDeveloperCommunity.pdf) 🇺🇸<br>
 * [Running effective IT society at your university](https://github.com/beardaway/Bio/blob/master/Presentations/GitHubCampusExpertsPresentation.pdf) 🇺🇸<br>
 * [Running big hackathons essentials](https://github.com/beardaway/Bio/blob/master/Presentations/RunningBigHackathons.pdf) 🇺🇸<br>
