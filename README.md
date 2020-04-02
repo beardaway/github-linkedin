@@ -8,7 +8,7 @@
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a developer community engineer at Auth0. I love writing software in Swift and Python but also doing data stuff in the latter one. Passionate about anything developer ecosystems, iOS Development, product engineering and research. Always willing to do engage in projects bringing positive value!
+Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a developer community engineer at Auth0. I love writing software in Swift and Python but also doing data stuff in the latter one. Passionate about anything developer ecosystems, iOS development, product engineering and research. Always willing to do engage in projects bringing positive value!
 
 # Social 🤜🤛
 
@@ -69,6 +69,7 @@ List of hackathons I attended, organized or volunteered in and conferences I gav
 Here's a list of courses I've taken. All the certificates can be viewed [here](https://github.com/beardaway/github-linkedin/tree/master/Certificates).
 
 * **Udemy**
+    * [Python for Data Science and Machine Learning](https://github.com/beardaway/github-linkedin/blob/master/Certificates/Udemy/PythonDataSciencendMachineLearningBootcampCertificate.pdf)
     * [Product Marketing Management](https://www.udemy.com/course/product-marketing-for-technology-companies/)
     * [How to Write a Successful Research Paper](udemy.com/course/how-to-write-a-successful-research-paper-academic-writing/)
     * [The Complete Python & PostgreSQL Developer Course](udemy.com/course/the-complete-python-postgresql-developer-course/)
