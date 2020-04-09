@@ -8,7 +8,7 @@
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a developer community engineer at Auth0. I enjoy writing software in Swift, JavaScript and Python but also doing data stuff in the last one. Passionate about anything developer ecosystems, iOS development, product engineering and data & research. Always willing to do engage in projects bringing added value!
+Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a developer community engineer at Auth0. I enjoy writing software in Swift, JavaScript and Python but also doing data stuff in the last one. Passionate about anything developer ecosystems, iOS development, product engineering and data & research. Always willing to engage in projects bringing added value!
 
 # Social 🤜🤛
 
@@ -21,7 +21,7 @@ Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a dev
 # Jobs History 🧓
 
 * [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - now) <br>
-* [Devrel Space: Head of Developer Research](https://twitter.com/devrelspace) (August 2018 - now) <br>
+* [Devrel Space: Head of DevRel Research](https://twitter.com/devrelspace) (August 2018 - now) <br>
 * [GitHub: Developer Campus Expert](https://education.github.com/students/experts) (June 2018 - June 2019( <br>
 * [AngelHack: Developer Community Manager](https://angelhack.com/) (January 2018 - July 2018) <br>
 * [Estimote: iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
@@ -46,9 +46,12 @@ Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a dev
 
 |         Field        | Skills                                                                                 |
 |:--------------------:|----------------------------------------------------------------------------------------|
-|      Programming     | Python, Swift, SQL, PostgreSQL, Git                                                    |
-|     Data Science     | Numpy, Pandas, Seaborn, Matplotlib, Google BigQuery                                    |
+|      Engineering     | Product Engineering, Python, Swift, JavaScript, PostgreSQL, Git                        |
+|         Data         | Data Analysis, Numpy, Pandas, Seaborn, Matplotlib, Google BigQuery                     |
+|        Design        | User Research, UX Fundamentals, Sketch                                                 |
 |  Developer Relations | Developer Ecosystem Creation and Analysis, Organising hackathons, Community Engineering|
+|       Management     | Project and Program Management, Scrum, Kanban                                          |
+|       Soft Skills    | Leadership, Public Speaking                                                            |
 
 # Hackathons and Conferences 👨‍💻
 
