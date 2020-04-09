@@ -36,7 +36,7 @@ Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a dev
 
 * **Master's Degree: Computer Science and Econometrics (2017 - 2019)**
     * AGH University of Science and Technology
-    * **Thesis**: Implementation project of an application for pattern recognition in medical data using iOS and watchOS
+    * **Thesis**: Implementation project of an application for pattern recognition in medical data using iOS
     
 * **Bachelor's Degree: Computer Science and Econometrics (2014 - 2017)**
     * AGH University of Science and Technology
