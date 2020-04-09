@@ -8,7 +8,7 @@
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a developer community engineer at Auth0. I ENJOY writing software in Swift, JavaScript and Python but also doing data stuff in the last one. Passionate about anything developer ecosystems, iOS development, product engineering and research. Always willing to do engage in projects bringing positive value!
+Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a developer community engineer at Auth0. I enjoy writing software in Swift, JavaScript and Python but also doing data stuff in the last one. Passionate about anything developer ecosystems, iOS development, product engineering and data & research. Always willing to do engage in projects bringing added value!
 
 # Social 🤜🤛
 
