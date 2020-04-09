@@ -1,4 +1,4 @@
-![](/Assets/coverPhoto.png)
+![](/Assets/CoverLetterCover.png)
 
 <p align="center">
 <b> Konrad Sopala </b> <br>
