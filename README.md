@@ -2,13 +2,13 @@
 
 <p align="center">
 <b> Konrad Sopala </b> <br>
-🥑 Auth0 Developer Community  Engineer <br>
+🥑 Auth0 Senior Developer Community  Engineer <br>
 🔧 Developer Ecosystems, iOS Development, Product Engineering, Data & Research <br>
 </p>
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a developer community engineer at Auth0. I enjoy writing software in Swift, JavaScript and Python but also doing data stuff in the last one. Passionate about anything developer ecosystems, iOS development, product engineering and data & research. Always willing to engage in projects bringing added value!
+Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a Senior Developer Community Engineer at Auth0. I enjoy writing software in Swift, JavaScript and Python but also doing data stuff in the last one. Passionate about anything developer ecosystems, iOS development, product engineering and data & research. Always willing to engage in projects bringing added value!
 
 # Social 🤜🤛
 
@@ -20,7 +20,8 @@ Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a dev
 
 # Jobs History 🧓
 
-* [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - now) <br>
+* [Auth0: Senior Developer Community Engineer)(https://auth0.com/) (April 2020 - now) <br>
+* [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - March 2020) <br>
 * [Devrel Space: Head of DevRel Research](https://twitter.com/devrelspace) (August 2018 - now) <br>
 * [GitHub: Developer Campus Expert](https://education.github.com/students/experts) (June 2018 - June 2019( <br>
 * [AngelHack: Developer Community Manager](https://angelhack.com/) (January 2018 - July 2018) <br>
