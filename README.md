@@ -20,7 +20,7 @@ Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a Sen
 
 # Jobs History 🧓
 
-* [Auth0: Senior Developer Community Engineer)(https://auth0.com/) (April 2020 - now) <br>
+* [Auth0: Senior Developer Community Engineer](https://auth0.com/) (April 2020 - now) <br>
 * [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - March 2020) <br>
 * [Devrel Space: Head of DevRel Research](https://twitter.com/devrelspace) (August 2018 - now) <br>
 * [GitHub: Developer Campus Expert](https://education.github.com/students/experts) (June 2018 - June 2019( <br>
