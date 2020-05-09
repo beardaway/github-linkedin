@@ -3,12 +3,12 @@
 <p align="center">
 <b> Konrad Sopala </b> <br>
 🥑 Auth0 Senior Developer Community  Engineer <br>
-🔧 Developer Ecosystems, iOS & Python Development, Product Engineering, Data & Research <br>
+🔧 Software & Product Engineering, Data & Research <br>
 </p>
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a Senior Developer Community Engineer at Auth0. I enjoy writing software in Swift and Python but also doing data stuff in the last one. Passionate about anything developer ecosystems, iOS & Python development, product engineering and data & research. Always willing to engage in projects bringing added value!
+Hi! I'm Konrad and I'm working as a Senior Developer Community Engineer at Auth0. I enjoy writing software in Swift and Python but also doing data stuff in the last one. Passionate about anything software & product engineering but also research and data. Always willing to engage in projects bringing added value!
 
 # Social 🤜🤛
 
@@ -22,16 +22,16 @@ Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a Sen
 
 * [Auth0: Senior Developer Community Engineer](https://auth0.com/) (April 2020 - now) <br>
 * [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - March 2020) <br>
-* [Devrel Space: Head of DevRel Research](https://twitter.com/devrelspace) (August 2018 - now) <br>
-* [GitHub: Developer Campus Expert](https://education.github.com/students/experts) (June 2018 - June 2019( <br>
-* [AngelHack: Developer Community Manager](https://angelhack.com/) (January 2018 - July 2018) <br>
+* [Devrel Space: Research Engineer](https://twitter.com/devrelspace) (August 2018 - now) <br>
 * [Estimote: iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
 * [AGHacks: Developer Advocate](https://pl-pl.facebook.com/AGHacks) (November 2014 - December 2015) <br>
 
 # Voluntary 🙋‍♂️
 
-* [AGHacks Core Organizer](https://pl-pl.facebook.com/AGHacks) (November 2014 - December 2015) <br>
+* [GitHub: Developer Campus Expert](https://education.github.com/students/experts) (June 2018 - June 2019) <br>
+* [AngelHack: Developer Community Manager](https://angelhack.com/) (January 2018 - July 2018) <br>
 * [MLH Local Hack Day Organizer](https://localhackday.mlh.io/) (December 2017) <br>
+* [AGHacks Core Organizer](https://pl-pl.facebook.com/AGHacks) (November 2014 - December 2015) <br>
 
 # Education 📚
 
@@ -47,11 +47,11 @@ Hi! I'm Konrad and I'm a developer ecosystem engineer currently working as a Sen
 
 |         Field        | Skills                                                                                 |
 |:--------------------:|----------------------------------------------------------------------------------------|
-|      Engineering     | Product Engineering, Python, Swift, PostgreSQL, Git                        |
-|         Data         | Data Analysis, Numpy, Pandas, Seaborn, Matplotlib, Google BigQuery                     |
-|        Design        | User Research, UX Fundamentals, Sketch                                                 |
-|  Developer Relations | Developer Ecosystem Creation and Analysis, Organising hackathons, Community Engineering|
-|       Management     | Project and Program Management, Scrum, Kanban                                          |
+|      Engineering     | Product Engineering, Research, SQL, Bash,  Git                                         |
+|    iOS (specific)    | Swift, Firebase, SwiftUI MVC/MVVM Architectures, Code Structuring                      |
+|    Python (specific) | Scriping, Data Analysis, Numpy, Pandas, Seaborn, Matplotlib                            |
+|       Management     | Project Management, Program Management, Scrum, Kanban                                  |
+|        DevRel        | Developer Ecosystem Creation and Analysis, Community Engineering                       |
 |       Soft Skills    | Leadership, Public Speaking                                                            |
 
 # Hackathons and Conferences 👨‍💻
