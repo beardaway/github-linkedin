@@ -48,7 +48,7 @@ Hi! I'm Konrad and I'm working as a Senior Developer Community Engineer at Auth0
 |         Field        | Skills                                                                                 |
 |:--------------------:|----------------------------------------------------------------------------------------|
 |      Engineering     | Product Engineering, Research, SQL, Bash,  Git                                         |
-|    iOS (specific)    | Swift, Firebase, SwiftUI MVC/MVVM Architectures, Code Structuring                      |
+|    iOS (specific)    | Swift, Firebase, SwiftUI, MVC/MVVM Architectures, Code Structuring                     |
 |    Python (specific) | Scriping, Data Analysis, Numpy, Pandas, Seaborn, Matplotlib                            |
 |       Management     | Project Management, Program Management, Scrum, Kanban                                  |
 |        DevRel        | Developer Ecosystem Creation and Analysis, Community Engineering                       |
