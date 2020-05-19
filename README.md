@@ -15,7 +15,7 @@ Hi! I'm Konrad and I'm working as a Senior Developer Community Engineer at Auth0
 * 🐤 Twitter  [@beardaway](https://twitter.com/beardaway)
 * 📧 Email  konrad.sopala@gmail.com
 * 🐙 GitHub  [beardaway](https://github.com/beardaway)
-* 👨🏽‍🎓 Linkedin  [Konrad Sopala](https://www.linkedin.com/in/konrad-sopala-b4aa00101/)
+* 👨🏽‍🎓 Linkedin  [Konrad Sopala](www.linkedin.com/in/konradsopala)
 * 💪🏼 Gallup [Strengths](https://github.com/beardaway/github-linkedin/blob/master/GallupInstitute/CliftonStrengthsFinder.md)
 
 # Jobs History 🧓
