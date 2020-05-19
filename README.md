@@ -24,14 +24,13 @@ Hi! I'm Konrad and I'm working as a Senior Developer Community Engineer at Auth0
 * [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - March 2020) <br>
 * [Devrel Space: Research Engineer](https://twitter.com/devrelspace) (August 2018 - now) <br>
 * [Estimote: iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
-* [AGHacks: Developer Advocate](https://pl-pl.facebook.com/AGHacks) (November 2014 - December 2015) <br>
 
 # Voluntary 🙋‍♂️
 
 * [GitHub: Developer Campus Expert](https://education.github.com/students/experts) (June 2018 - June 2019) <br>
-* [AngelHack: Developer Community Manager](https://angelhack.com/) (January 2018 - July 2018) <br>
-* [MLH Local Hack Day Organizer](https://localhackday.mlh.io/) (December 2017) <br>
-* [AGHacks Core Organizer](https://pl-pl.facebook.com/AGHacks) (November 2014 - December 2015) <br>
+* [AngelHack: Organizer](https://angelhack.com/) (January 2018 - July 2018) <br>
+* [MLH: Local Hack Day Organizer](https://localhackday.mlh.io/) (December 2017) <br>
+* [AGHacks: Co-Organizer](https://pl-pl.facebook.com/AGHacks) (November 2014 - December 2015) <br>
 
 # Education 📚
 
@@ -72,19 +71,21 @@ List of hackathons I attended, organized or volunteered in and conferences I gav
 Here's a list of courses I've taken. All the certificates can be viewed [here](https://github.com/konradsopala/github-linkedin/tree/master/Certificates).
 
 * **Udemy**
-    * [Python for Data Science and Machine Learning](https://github.com/beardaway/github-linkedin/blob/master/Certificates/Udemy/PythonDataSciencendMachineLearningBootcampCertificate.pdf)
-    * [Product Marketing Management](https://www.udemy.com/course/product-marketing-for-technology-companies/)
-    * [How to Write a Successful Research Paper](udemy.com/course/how-to-write-a-successful-research-paper-academic-writing/)
-    * [The Complete Python & PostgreSQL Developer Course](udemy.com/course/the-complete-python-postgresql-developer-course/)
-    * [The Complete iOS 10 & Swift 3 Developer Course](udemy.com/course/complete-ios-10-developer-course/)
-    * [Objective-C Crash Course for Swift Developers](udemy.com/course/objectivec/)
-    * [Blockchain and Bitcoin Fundamentals](udemy.com/course/blockchain-and-bitcoin-fundamentals/)
-    * [The Complete Salesforce Administrator Certification](udemy.com/course/salesforce-administrator/)
-    * [The Complete Guide to Jira](udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/)
-    * [Mastering Agile Scrum Project Management](udemy.com/course/mastering-agile-scrum-project-management-pmi-rep/)
-    * [User Experience Design Fundamentals](udemy.com/course/user-experience-design-fundamentals/)
-    * [Mobile App Design in Sketch](udemy.com/course/the-complete-design-course/)
-    * [Ultimate Google Analytics Guide](https://www.udemy.com/course/ultimate-google-analytics-course-50-practical-tips/)
+   * **Engineering**
+      * [Python for Data Science and Machine Learning](https://github.com/beardaway/github-linkedin/blob/master/Certificates/Udemy/PythonDataSciencendMachineLearningBootcampCertificate.pdf)
+      * [The Complete Python & PostgreSQL Developer Course](udemy.com/course/the-complete-python-postgresql-developer-course/)
+      * [The Complete iOS 10 & Swift 3 Developer Course](udemy.com/course/complete-ios-10-developer-course/)
+      * [Objective-C Crash Course for Swift Developers](udemy.com/course/objectivec/)
+      * [Blockchain and Bitcoin Fundamentals](udemy.com/course/blockchain-and-bitcoin-fundamentals/)
+      * [User Experience Design Fundamentals](udemy.com/course/user-experience-design-fundamentals/)
+      * [Mobile App Design in Sketch](udemy.com/course/the-complete-design-course/)
+   * **Research**
+      * [How to Write a Successful Research Paper](udemy.com/course/how-to-write-a-successful-research-paper-academic-writing/)
+   * **Management**
+      * [Product Marketing Management](https://www.udemy.com/course/product-marketing-for-technology-companies/)
+      * [The Complete Guide to Jira](udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/)
+      * [Mastering Agile Scrum Project Management](udemy.com/course/mastering-agile-scrum-project-management-pmi-rep/)
+      * [Ultimate Google Analytics Guide](https://www.udemy.com/course/ultimate-google-analytics-course-50-practical-tips/)
 
 # Presentations 🎤
 
