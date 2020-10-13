@@ -90,6 +90,7 @@ Here's a list of courses I've taken. All the certificates can be viewed [here](h
 
 # Presentations 🎤
 
+* [Taking care of you organisation GitHub space](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/CompanyGitHubSpace.pdf) 🇺🇸<br>
 * [Pimp Your GitHub Profile](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/PimpYourGitHubProfile.pdf) 🇺🇸<br>
 * [Observable and Actionable Analytics](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/ObservableAndActionableAnalytics.pdf) 🇺🇸<br>
 * [FAQathons: your new tool for community forum enhancement](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/FAQathons.pdf) 🇺🇸<br>
