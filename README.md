@@ -82,6 +82,7 @@ Here's a list of courses I've taken. All the certificates can be viewed [here](h
    * **Research**
       * [How to Write a Successful Research Paper](https://www.udemy.com/course/how-to-write-a-successful-research-paper-academic-writing/)
    * **Management**
+      * [Program Management](https://www.udemy.com/course/program-management-course/)
       * [Product Marketing Management](https://www.udemy.com/course/product-marketing-for-technology-companies/)
       * [The Complete Guide to Jira](https://www.udemy.com/course/the-complete-guide-to-jira-with-real-world-examples/)
       * [Mastering Agile Scrum Project Management](https://www.udemy.com/course/mastering-agile-scrum-project-management-pmi-rep/)
@@ -89,6 +90,8 @@ Here's a list of courses I've taken. All the certificates can be viewed [here](h
 
 # Presentations 🎤
 
+* [Taking care of you organisation GitHub space](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/CompanyGitHubSpace.pdf) 🇺🇸<br>
+* [Pimp Your GitHub Profile](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/PimpYourGitHubProfile.pdf) 🇺🇸<br>
 * [Observable and Actionable Analytics](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/ObservableAndActionableAnalytics.pdf) 🇺🇸<br>
 * [FAQathons: your new tool for community forum enhancement](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/FAQathons.pdf) 🇺🇸<br>
 * [Running 500 people hackathon - AGHacks case study](https://github.com/konradsopala/github-linkedin/blob/master/Presentations/Running500peoplehackathon.pdf) 🇺🇸<br>

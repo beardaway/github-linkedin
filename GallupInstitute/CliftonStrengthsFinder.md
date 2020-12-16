@@ -5,7 +5,7 @@
 * **Relator**:
   * People exceptionally talented in the Relator theme enjoy close relationships with others. They find deep satisfaction in working hard with friends to achieve a goal.
 
-* **Indwidualization**
+* **Individualization**
   * People exceptionally talented in the Individualization theme are intrigued with the unique qualities of each person. They have a gift for figuring out how different people can work together productively.
 
 * **Command**
