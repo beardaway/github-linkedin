@@ -3,29 +3,29 @@
 <p align="center">
 <b> Konrad Sopala </b> <br>
 🥑 Auth0 Senior Developer Community  Engineer <br>
-🔧 Software & Product Engineering, Data & Research <br>
+🔧 Product Engineering, Program & Project Management, DevRel<br>
 </p>
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm working as a Senior Developer Community Engineer at Auth0. I enjoy writing software in Swift and Python but also doing data stuff in the last one. Passionate about anything software & product engineering but also research and data. Always willing to engage in projects bringing added value!
+Hi! I'm Konrad and I'm working as a Senior Developer Community Engineer at Auth0. Considering my experience and the fact that I'm super passionate about anything DevRel, software engineering, community engineering, program & project management and combining that with my passion for data I'm always willing to engage in projects bringing added value!
 
 # Social 🤜🤛
 
-* 🐤 Twitter  [@beardaway](https://twitter.com/beardaway)
+* 🐤 Twitter  [@konradsopala](https://twitter.com/konradsopala)
 * 📧 Email  konrad.sopala@gmail.com
-* 🐙 GitHub  [beardaway](https://github.com/konradsopala)
+* 🐙 GitHub  [konradsopala](https://github.com/konradsopala)
 * 👨🏽‍🎓 Linkedin  [Konrad Sopala](www.linkedin.com/in/konradsopala)
 * 💪🏼 Gallup [Strengths](https://github.com/konradsopala/github-linkedin/blob/master/GallupInstitute/CliftonStrengthsFinder.md)
 
-# Jobs History 🧓
+# Experience 🧓
 
 * [Auth0: Senior Developer Community Engineer](https://auth0.com/) (April 2020 - now) <br>
 * [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - March 2020) <br>
 * [Devrel Space: Research Engineer](https://twitter.com/devrelspace) (August 2018 - now) <br>
 * [Estimote: iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
 
-# Voluntary 🙋‍♂️
+# Hackathons 🙋‍♂️
 
 * [GitHub: Developer Campus Expert](https://education.github.com/students/experts) (June 2018 - June 2019) <br>
 * [AngelHack: Organizer](https://angelhack.com/) (January 2018 - July 2018) <br>
@@ -46,11 +46,11 @@ Hi! I'm Konrad and I'm working as a Senior Developer Community Engineer at Auth0
 
 |         Field        | Skills                                                                                 |
 |:--------------------:|----------------------------------------------------------------------------------------|
-|      Engineering     | Product Engineering, Research, SQL, Bash,  Git                                         |
-|    iOS (specific)    | Swift, Firebase, SwiftUI, MVC/MVVM Architectures, Code Structuring                     |
-|    Python (specific) | Scriping, Data Analysis, Numpy, Pandas, Seaborn, Matplotlib                            |
+|      Engineering     | Product Engineering, Research, , Python, Swift, Git, PostgreSQL                        |
+|          Data        | Data Analysis, Excel, Python Data Analysis Packages                                    |
+|         Design       | User Research, UX Fundamentals, Sketch                                                 |
 |       Management     | Project Management, Program Management, Scrum, Kanban                                  |
-|        DevRel        | Developer Ecosystem Creation and Analysis, Community Engineering                       |
+|        DevRel        | DevRel Management, Community Engineering, Developer Evangelism & Advocacy              |
 |       Soft Skills    | Leadership, Public Speaking                                                            |
 
 # Hackathons and Conferences 👨‍💻
