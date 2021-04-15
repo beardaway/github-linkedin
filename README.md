@@ -2,13 +2,13 @@
 
 <p align="center">
 <b> Konrad Sopala </b> <br>
-🥑 Auth0 Senior Developer Community  Engineer <br>
+🥑 Auth0 Developer Community Team Lead <br>
 🔧 Product Engineering, Program & Project Management, DevRel<br>
 </p>
 
 # Bio 👋
 
-Hi! I'm Konrad and I'm working as a Senior Developer Community Engineer at Auth0. Considering my experience and the fact that I'm super passionate about anything DevRel, software engineering, community engineering, program & project management and combining that with my passion for data I'm always willing to engage in projects bringing added value!
+Hi! I'm Konrad and I'm working as a Developer Community Team Lead at Auth0. Considering my experience and the fact that I'm super passionate about anything DevRel, software engineering, community engineering, program & project management and combining that with my passion for data I'm always willing to engage in projects bringing added value!
 
 # Social 🤜🤛
 
@@ -20,7 +20,8 @@ Hi! I'm Konrad and I'm working as a Senior Developer Community Engineer at Auth0
 
 # Experience 🧓
 
-* [Auth0: Senior Developer Community Engineer](https://auth0.com/) (April 2020 - now) <br>
+* [Auth0: Developer Community Team Lead](https://auth0.com/) (April 2021 - ) <br> 
+* [Auth0: Senior Developer Community Engineer](https://auth0.com/) (April 2020 - April 2021) <br>
 * [Auth0: Developer Community Engineer](https://auth0.com/) (October 2018 - March 2020) <br>
 * [Devrel Space: Research Engineer](https://twitter.com/devrelspace) (August 2018 - now) <br>
 * [Estimote: iOS Software Engineer](https://estimote.com/) (May 2017 - May 2018) <br>
